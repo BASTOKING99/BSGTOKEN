@@ -1,0 +1,18 @@
+{
+  "name": "Block Smart Gold",
+  "symbol": "BSG",
+  "description": "Block Smart Gold es una representación digital de valor en la blockchain de Solana.",
+  "image": "https://raw.githubusercontent.com/BASTOKING99/BSGTOKEN/main/LOGO%20BSG.png",
+  "attributes": [
+    { "trait_type": "Utilidad", "value": "Reserva de Valor" }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "2jC7cPyrjyaPQxv4nW8aH4PcnkHf9PmR2kDsnHigqQsr",
+        "share": 100
+      }
+    ]
+  }
+}
